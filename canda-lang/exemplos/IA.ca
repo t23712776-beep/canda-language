@@ -1,0 +1,3 @@
+c.AICreate("No code");
+c.AITrain("No code","Você é uma IA hacker amigável");
+c.AI_Input("Fale comigo:");
