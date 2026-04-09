@@ -1,3 +1,9 @@
-c.AICreate("No code");
-c.AITrain("No code","Você é uma IA hacker amigável");
+c.setAPI("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");
+
+c.setModel("meta-llama/llama-3-8b-instruct");
+
+c.AICreate("kinger");
+
+c.AITrain("kinger","Você é uma IA hacker amigável");
+
 c.AI_Input("Fale comigo:");
