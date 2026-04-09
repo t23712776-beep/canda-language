@@ -1,4 +1,4 @@
-c.setAPI("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");
+c.setAPI("SUA_KEY_OPENROUTER");
 
 c.setModel("meta-llama/llama-3-8b-instruct");
 
